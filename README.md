@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 - 📫 Reach me at ethanweiner20@gmail.com
 
-Check out my [personal site](ethan-weiner.web.app)!
+Check out my [personal site](https://ethan-weiner.web.app/)!
 
 <!---
 Ethanweiner20/Ethanweiner20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
