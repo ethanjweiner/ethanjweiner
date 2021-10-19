@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethanweiner20
-- 👀 I’m interested in software development and automation
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in software development, automation, program design, and more!
+- 🌱 I’m currently learning at Launch School
 - 📫 Reach me at ethanweiner20@gmail.com
 
 Check out my [personal site](https://ethan-weiner.web.app/)!
