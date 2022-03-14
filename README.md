@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at Launch School
 - 📫 Reach me at ethanweiner20@gmail.com
 
-Check out my [personal site](https://ethan-weiner.web.app/)!
+Check out my [personal site](https://ethanweiner.web.app/)!
 
 <!---
 Ethanweiner20/Ethanweiner20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
