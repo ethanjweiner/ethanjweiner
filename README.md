@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Ethanweiner20
-- 👀 I’m interested in software development, automation, program design, and more!
-- 🌱 I’m currently learning at Launch School
-- 📫 Reach me at ethanweiner20@gmail.com
+Hi, I'm Ethan! I'm a software engineer with multiple years of experience in full-stack development, in particular, JavaScript/TypeScript and Ruby. I'm proficient in React, Express, PostgreSQL, Docker, Go, and AWS.
 
-Check out my [personal site](https://ethanweiner.web.app/)!
+My passion for software engineering stems from the excitement I felt when I first started building applications on my own with technologies such as Javascript, HTML/CSS, Vue.js, and Firebase. I had a ton of fun building these apps, but as their complexity grew, I encountered more bugs and they became harder to maintain. This experience sparked a renewed focus on software engineering fundamentals, and over the past 2 years, I have had an incredible learning experience at Launch School, a mastery-based software engineering curriculum focused on fundamentals.
 
-<!---
-Ethanweiner20/Ethanweiner20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most recently, I worked with a remote team of three to build [Seamless](https://seamless-cicd.com/), an open-source, low-config CI/CD pipeline for containerized microservices. I am currently on the lookout for a software engineering role that will enable me to utilize my skills and experience to create a positive impact. If you find my profile or personal site interesting, please don't hesitate to reach out to weiner.j.ethan@gmail.com!
