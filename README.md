@@ -9,7 +9,7 @@ My passion for software engineering stems from the excitement I felt when I firs
   Seamless
 </h1>
 
-Most recently, I worked with a remote team of three to build [Seamless](https://seamless-cicd.com/), an open-source, low-config CI/CD pipeline for containerized microservices.
+Most recently, I worked with a remote team of three to build [Seamless](https://seamless-cicd.com/), an open-source, low-config CI/CD pipeline for containerized microservices. Read our [case study](https://seamless-cicd.com/case-study) or watch our [tech talk](https://www.youtube.com/watch?v=L-WuIpvBv38) for more details!
 
 <br>
 
