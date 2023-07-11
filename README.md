@@ -16,6 +16,3 @@ Most recently, I worked with a remote team of three to build [Seamless](https://
 </a>
 
 <br>
-<hr>
-
-I am currently on the lookout for a software engineering role that will enable me to utilize my skills and experience to create a positive impact. If you find anything you see here interesting, please don't hesitate to reach out to weiner.j.ethan@gmail.com!
